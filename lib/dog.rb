@@ -6,7 +6,7 @@ def initialize(name)
 end
 
 def breed=(breed)
-  @breed=breed
+  @breed="Mutt"
 end
 
 end
