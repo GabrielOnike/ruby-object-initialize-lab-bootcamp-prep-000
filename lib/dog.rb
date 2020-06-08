@@ -2,11 +2,11 @@ class Dog
 
 def initialize
      @name=name
-      @breed=breed
+      @breed="Mutt"
 end
 
 def breed=(breed)
-  @breed="Mutt"
+  @breed=breed
 end
 
 end
